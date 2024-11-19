@@ -1,0 +1,131 @@
+18:57:26 From Intructor :: Gaby Gonzalez Romero To Asistente Académica:: Silvina Renfijes(direct message):
+	Hola Silvana, buenas tardes!
+	Espero te encuentres muy bien y un gusto conocerte!
+18:57:38 From Intructor :: Gaby Gonzalez Romero To Asistente Académica:: Silvina Renfijes(direct message):
+	Gracias de antemano por el soporte en la clase de hoy!
+18:58:00 From Asistente Académica:: Silvina Renfijes To Intructor :: Gaby Gonzalez Romero(direct message):
+	Hola Gaby, buen inicio de jornada :)
+18:58:04 From Asistente Académica:: Silvina Renfijes To Intructor :: Gaby Gonzalez Romero(direct message):
+	Se ha reaccionado a "Gracias de anteman..." con ❤️
+18:58:05 From Intructor :: Gaby Gonzalez Romero To Asistente Académica:: Silvina Renfijes(direct message):
+	Te parece si arrancas con la presentación a las 19:05 hs. ?
+	
+	Mientras dejo música de fondo
+18:59:15 From Asistente Académica:: Silvina Renfijes To Intructor :: Gaby Gonzalez Romero(direct message):
+	Muy buena musica 🙌
+18:59:29 From Asistente Académica:: Silvina Renfijes To Intructor :: Gaby Gonzalez Romero(direct message):
+	Perfecto.
+19:01:44 From Intructor :: Gaby Gonzalez Romero To Asistente Académica:: Silvina Renfijes(direct message):
+	Reacted to "Muy buena musica 🙌" with 🩵
+19:02:29 From Intructor :: Gaby Gonzalez Romero To Everyone:
+	Hola a tod@s, buenas tardes!
+	cómo están ?
+	
+	Arrancamos en 3 min.
+19:05:11 From Intructor :: Gaby Gonzalez Romero To Asistente Académica:: Silvina Renfijes(direct message):
+	Cuando quieras, me avisas y empezamos con tu presentación
+19:05:58 From Asistente Académica:: Silvina Renfijes To Intructor :: Gaby Gonzalez Romero(direct message):
+	Iniciamos.
+19:06:14 From Intructor :: Gaby Gonzalez Romero To Asistente Académica:: Silvina Renfijes(direct message):
+	Se escucha perfecto !
+19:14:29 From Asistente Académica:: Silvina Renfijes To Everyone:
+	¡Bienvenid@s a Git: Desarrollo Colaborativo! 
+	
+	Dejo por aquí nuestros canales de comunicación:
+	Consultas Administrativas: Para consultas administrativas, por favor contacta a alumnos@educacionit.com o silvina.renfijes@educacionit.com. 
+	Soporte Técnico: Si necesitas soporte técnico, escribe a soporteonline@educacionit.com.
+	Únete a nuestro servidor en Discord: Utiliza el siguiente enlace: https://discord.gg/educacionit-859921242023133215
+	Valida tu cuenta de Discord: Hazlo a través del siguiente enlace: https://www.educacionit.com/discord-onboarding
+	Ayuda con Discord: Sigue los pasos del siguiente instructivo si necesitas asistencia: Instructivo
+	
+	¡Muchas gracias!
+19:33:37 From Lucas Nicolas Villalba-954375 To Everyone:
+	Buenas! Yo estoy en la carrera de front end developer! Primera vez que veo GIT, solo lo conocía de palabra
+19:33:49 From Intructor :: Gaby Gonzalez Romero To Everyone:
+	Reacted to "Buenas! Yo estoy en ..." with 🩵
+19:36:09 From Intructor :: Gaby Gonzalez Romero To Everyone:
+	Descargar Git : https://git-scm.com/
+19:36:12 From Lucas Nicolas Villalba-954375 To Everyone:
+	Por las dudas si a algún compañero le sirve, mandaron el instructivo de instalación por mail, con el link de descarga y el paso a paso
+19:37:50 From Emerson Rodrigo Prieto Da Silva-1040371 To Everyone:
+	Buenas tardes. Soy Tecnólogo en Análisis y Desarrollo de Sistemas. Estoy realizando el curso para profundizar mis conocimientos de Git y para tener un certificado. Además me inscribí a MongoDB y al de C# .NET. Lo único que sé hacer en Git es subir proyectos a GitHub a través de la terminal  de Git.
+19:41:34 From Lucas Nicolas Villalba-954375 To Everyone:
+	git CMD, git GUI y git BASH
+19:41:47 From Maria Alejandra Paez-407972 To Everyone:
+	Buenas tardes! Soy QA y necesito familiarizarme con git para la automatización de proyectos!
+19:42:30 From Lucas Nicolas Villalba-954375 To Everyone:
+	O sea, para el curso usamos la terminal de GIT BASH?
+19:42:57 From Intructor :: Gaby Gonzalez Romero To Everyone:
+	Replying to "O sea, para el curso..."
+	
+	Si Luc !
+19:43:04 From Lucas Nicolas Villalba-954375 To Everyone:
+	Reacted to "Si Luc !" with 👍
+19:43:48 From Emerson Rodrigo Prieto Da Silva-1040371 To Everyone:
+	Buenas tardes. Soy Tecnólogo en Análisis y Desarrollo de Sistemas. Estoy realizando el curso para profundizar mis conocimientos de Git y para tener un certificado. Además me inscribí a MongoDB y al de C# .NET. Lo único que sé hacer en Git es subir proyectos a GitHub a través de la terminal  de Git.
+19:47:27 From Jorge Steven Gonzalez Marquina-999214 To Everyone:
+	Yo estoy realizando la carrera de Python
+20:35:11 From Lucas Nicolas Villalba-954375 To Everyone:
+	Que bajon si no sabes esto y querés mover un archivo de un proyecto, te queres matar y te van a querer matar jajaja
+20:38:37 From Lucas Nicolas Villalba-954375 To Everyone:
+	Hay que hacer un machete de los comandos jajaja, pero si se entendió de 10 todo
+20:44:37 From Nicolas Gorza-685049 To Everyone:
+	estos comandos cambian entre Linux y Windows?
+20:53:06 From Lucas Nicolas Villalba-954375 To Everyone:
+	Nono, todo perfecto! Toca reveer la clase el finde y continuar con el machete jajaja
+20:55:18 From Lucas Nicolas Villalba-954375 To Everyone:
+	crear archivo y crear carpeta
+20:58:14 From Jorge Steven Gonzalez Marquina-999214 To Everyone:
+	Genial gracias
+21:00:51 From Jorge Steven Gonzalez Marquina-999214 To Everyone:
+	Porfa si puedes manda la lista de comandos al discord
+21:00:53 From Lucas Nicolas Villalba-954375 To Everyone:
+	Perfectoo
+21:01:05 From Emerson Rodrigo Prieto Da Silva-1040371 To Everyone:
+	Muy claro todo
+21:03:28 From Nicolas Gorza-685049 To Everyone:
+	la consola de GIT Bash no me toma man
+21:04:44 From Nicolas Gorza-685049 To Everyone:
+	si ahi estoy probando pero ninguno funciona :/
+21:06:14 From Intructor :: Gaby Gonzalez Romero To Everyone:
+	Replying to "si ahi estoy proband..."
+	
+	En Windows, el comando más similar al `man` de Unix/Linux es el comando `help`, aunque no es tan extenso ni detallado como `man`. Aquí tienes algunos equivalentes:
+	
+	1. **`help`**:
+	- Muestra una lista de comandos disponibles en el entorno de línea de comandos de Windows (Command Prompt).
+	- Puedes usarlo con un comando específico para obtener una breve descripción. Por ejemplo:
+	```cmd
+	help dir
+	```
+	
+	2. **`/h` o `/?`**:
+	- La mayoría de los comandos de Windows aceptan el argumento `/h` o `/?` para mostrar información de ayuda sobre su uso. Por ejemplo:
+	```cmd
+	dir /?
+	```
+	
+	3. **PowerShell**:
+	Si usas PowerShell, puedes usar los cmdlets para obtener documentación detallada:
+	- **`Get-Help`**: Similar al `man` en Unix. Por ejemplo:
+	```powershell
+	Get-Help Get-Process
+	```
+	- Para obtener ejemplos:
+	```powershell
+	Get-Help Get-Process -Examples
+	```
+	
+	Si estás buscando algo tan rico en funcionalidades como `man`, el enfoque de PowerShell (`Get-Help`) es el más cercano.
+21:06:32 From Nicolas Gorza-685049 To Everyone:
+	dale! gracias!
+21:06:42 From Intructor :: Gaby Gonzalez Romero To Everyone:
+	Reacted to "dale! gracias!" with 🩵
+21:08:07 From Lucas Nicolas Villalba-954375 To Everyone:
+	Gracias por la clase!! Buenas noches nos vemos el Martes, buen fin de semana!
+21:08:34 From Jorge Steven Gonzalez Marquina-999214 To Everyone:
+	Chau profe, nos vemos, muy claro todo
+21:08:35 From Maria Alejandra Paez-407972 To Everyone:
+	gracias! Saludos!
+21:08:37 From Franco Martin Aranda-511639 To Everyone:
+	buenas noches!
