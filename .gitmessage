@@ -1,0 +1,30 @@
+# --- Agregar el entorno + el nombre del archivo + Descripción de los trabajos realizados ---
+#
+# Debe estar en el comienzo del commit.
+# - UTILS : Se agregan los utils del proyecto.
+# - DEV : Se agregan los scripts de desarrollo.
+# - DOCS : Se agregan los scripts de documentación.
+# - TEST : Se agregan los scripts de tests.
+# - HOOKS : Se agregan los hooks de git.
+# - REFACTORING : Se agregan los scripts de refactoring.
+# - BUGFIX : Se corregiron errores.
+# - HOTFIX : Se corrigen errores críticos.
+#
+# Ejemplo:
+# UTILS( README.md ): Se agregan los utils del proyecto.
+
+
+
+# --- Información del autor del pedido de los cambios ---
+- Autor: 
+- Email:
+- GitHub: 
+
+# --- Datos ticket ---
+# Debe estar en el comienzo del commit.
+- Ticket:
+- URL:
+
+# --- Información del proyecto ---
+- Proyecto: 
+- URL: 
