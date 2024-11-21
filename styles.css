@@ -18,6 +18,18 @@ body {
 }
 
 .Header {
+
+& .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+& .Menu__item {
+  display : contents;
+
+  & .menu__item__link {
+    text-decoration: none;
+}
 }
 
 .Aside {

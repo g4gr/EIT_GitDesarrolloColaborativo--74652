@@ -18,6 +18,7 @@
 ---
 
 ## Mover
+
 `mv` ( Move ) : Mover archivos --> 'mv [ Nombre Archivo ] [ Carpeta Destino ]/
 `mv` ( Move ) : Renombrar Archivos --> 'mv [ Archivo + Extension ] [ Nuevo Nombre + Extension ]/
 
@@ -44,9 +45,8 @@
 `cp -r` ( Copy + Recursive ) : Copiar Carpetas y sus contenidos --> 'cp -r [ Carpeta ]'
 pwd ( Ruta Absoluta ) : Conocer la ruta absoluta hasta mi ubicación actual.
 
-
-
 ---
+
 # Git
 
 ## Comandos de consulta de Git
@@ -54,7 +54,6 @@ pwd ( Ruta Absoluta ) : Conocer la ruta absoluta hasta mi ubicación actual.
 `git --version` ( Version ) : Muestra la versión de Git instalada.
 `git -v` ( Version corta ) : Muestra la versión de Git instalada.
 `git status` ( Status ) : Muestra el estado de los archivos en el directorio actual.
-
 
 `git add` ( Add ) : Añade archivos a la lista de cambios.
 `git commit` ( Commit ) : Crea un nuevo commit.
@@ -64,13 +63,17 @@ pwd ( Ruta Absoluta ) : Conocer la ruta absoluta hasta mi ubicación actual.
 `git diff` ( Diff ) : Muestra las diferencias entre dos commits.
 
 ## Comandos de gestión de git
+
 `git config --local user.name "Nombre"` ( Config + Local + Name ) : Configura el nombre del usuario.
 `git config --local user.email "Email"` ( Config + Local + Email ) : Configura el email del usuario.
 `git config --global user.name "Nombre"` ( Config + Global + Name ) : Configura el nombre del usuario.
 `git config --global user.email "Email"` ( Config + Global + Email ) : Configura el email del usuario.
 
 --
+
 ## Scopes de Git
+
 - **Local**: Configuración local para el repositorio actual.
 - **Global**: Configuración global para el repositorio actual.
 - **System**: Configuración global para el sistema.
+`git commit --amend` : Modificar el mensaje del último commit. Abre el editor que configuramos en core.editor
