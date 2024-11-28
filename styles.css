@@ -39,10 +39,11 @@ body {
  /* -- Comienzo Aside -- */
 .Aside {
 
-  .section {
+  & .section {
 
-    .article {
+    & .article {
       display: flex;
+      flex-flow : column nowrap;
     }
   }
 }
