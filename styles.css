@@ -38,6 +38,13 @@ body {
 
  /* -- Comienzo Aside -- */
 .Aside {
+
+  .section {
+
+    .article {
+      display: flex;
+    }
+  }
 }
 
   /* -- Comienzo Main -- */
