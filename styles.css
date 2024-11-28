@@ -2,6 +2,7 @@
 
 :root {}
 
+/* --- Selector Universal --- */
 * {
   * padding: 0;
   * margin: 0;
@@ -12,11 +13,14 @@ html {
   font-size: 16px;
 }
 
+
+/* -- Comienzo Body -- */
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #f1f1f1;
 }
 
+/* -- Comienzo Header --*/
 .Header {
 
 & .navbar {
@@ -32,11 +36,14 @@ body {
 }
 }
 
+ /* -- Comienzo Aside -- */
 .Aside {
 }
 
+  /* -- Comienzo Main -- */
 .Main {
 }
-
+ 
+ /* -- Comienzo Footer -- */
 .Footer {
 }
