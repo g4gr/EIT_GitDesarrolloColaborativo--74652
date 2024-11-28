@@ -1,0 +1,71 @@
+18:57:51 From Instructor :: Gaby To Asistente Académica:: Silvina Renfijes (direct message):
+	Hola Silvina, buenas tardes!
+	Espero estes muy bien y gracias de antemano por tu soporte!
+	Asistente Académica:: Silvina Renfijes:❤️
+	
+18:58:41 From Asistente Académica:: Silvina Renfijes To Instructor :: Gaby (direct message):
+	Buenas tardes, Gaby🙌
+	Instructor :: Gaby:👋
+	
+19:00:38 From Instructor :: Gaby To Everyone:
+	Hola, buenas tardes!
+	Arrancamos en 5 min.
+	
+19:08:28 From Nicolas Gorza-685049 To Everyone:
+	hasta cual podríamos hacer hasta ahora?
+	
+19:08:38 From Nicolas Gorza-685049 To Everyone:
+	ahh okey
+	
+19:08:46 From Nicolas Gorza-685049 To Everyone:
+	entonces 1 2 y 3 ya podemos hacerlo?
+	
+19:08:49 From Nicolas Gorza-685049 To Everyone:
+	después de esta clase?
+	
+19:09:03 From Nicolas Gorza-685049 To Everyone:
+	joya joya esta noche me pongo a punto jajaj
+	
+19:20:07 From Nicolas Gorza-685049 To Everyone:
+	una duda, cuando uso vercel y tendría que usar Repositorios Publicos o puedo hacerlo privado?
+	
+19:21:36 From Nicolas Gorza-685049 To Everyone:
+	dale dale
+	
+19:46:14 From Nicolas Gorza-685049 To Everyone:
+	esas keys para que sirven?
+	
+19:50:07 From Nicolas Gorza-685049 To Everyone:
+	y siempre se necesitan las 2? o es como que si tengo solo la publica puedo acceder a leer algo, y si tengo ambas puedo crear editar eliminar?
+	
+20:15:20 From Nicolas Gorza-685049 To Everyone:
+	que seria eso?
+	
+20:15:22 From Nicolas Gorza-685049 To Everyone:
+	no entiendo
+	
+20:17:05 From Instructor :: Gaby To Everyone:
+	MURCIELAGO
+	0123456789
+	
+20:17:16 From Instructor :: Gaby To Everyone:
+	H067
+	
+20:17:52 From Nicolas Gorza-685049 To Everyone:
+	ahhh claro, etneindo ahora gracias
+	
+20:18:04 From Nicolas Gorza-685049 To Everyone:
+	claro como la encriptación de la maquina enigma sisi
+	
+20:21:34 From Instructor :: Gaby To Everyone:
+	https://github.com/g4gr/RepoTesting--01 
+	
+20:40:23 From Nicolas Gorza-685049 To Everyone:
+	profe y si yo modifico mi repositorio en GitHub que forkeo del suyo, si hago un pull request a mi Repositorio, cambiare el suyo o solo el mio?
+	
+20:42:20 From Nicolas Gorza-685049 To Everyone:
+	sisi
+	
+21:03:52 From Alejandra_Paez To Everyone:
+	Gracias!!
+	
