@@ -77,3 +77,17 @@ pwd ( Ruta Absoluta ) : Conocer la ruta absoluta hasta mi ubicación actual.
 - **Global**: Configuración global para el repositorio actual.
 - **System**: Configuración global para el sistema.
 `git commit --amend` : Modificar el mensaje del último commit. Abre el editor que configuramos en core.editor
+
+
+--
+## Sincronizar repositorios remotos
+
+-`git push` : enviar datos al repositorio remoto.
+-`git pull` : recibir datos del repositorio remoto.
+
+--
+## Deshacer
+
+`git reset HEAD~1` : Deshacer el último commit.
+`git reset --hard HEAD~1` : Deshacer el último commit y borrar los cambios locales.
+`git reset --soft HEAD~1` : Deshacer el último commit y mantener los cambios locales.
