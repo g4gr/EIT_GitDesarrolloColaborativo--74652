@@ -38,6 +38,14 @@ body {
 
  /* -- Comienzo Aside -- */
 .Aside {
+
+  & .section {
+
+    & .article {
+      display: flex;
+      flex-flow : column nowrap;
+    }
+  }
 }
 
   /* -- Comienzo Main -- */
